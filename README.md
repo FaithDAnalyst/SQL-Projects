@@ -1,4 +1,4 @@
-# Hobby Stores Customer Behavour Analysis with SQL 
+# Hobby Stores Customer Behavior Analysis with SQL 
 
 CREATE TABLE store_data (row_id varchar, order_id Varchar, order_date Date,
 						ship_date Date, ship_mode Varchar, customer_id Varchar,
